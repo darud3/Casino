@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1390254477 source:d:\studia\sem 3\programowanie\klasy\casino_royal\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<conio.h>
+	<stdio.h>
+
+1391268782 source:d:\studia\sem 3\programowanie\klasy\projekt semestr 3\casino_royal\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<stdio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<windows.h>
+	<vector>
+
+1391295704 source:d:\studia\programowanie\sem 3\programowanie\klasy\projekt semestr 3\casino_royal\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<stdio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<windows.h>
+	<vector>
+
